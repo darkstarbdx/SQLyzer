@@ -87,7 +87,7 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 If you encounter any issues or have questions, **reach out to me ASAP**! You can:
 - Open an issue on GitHub.
-- Contact me via email or social media (add your contact details here).
+- Contact me via GitHub.
 
 ---
 
