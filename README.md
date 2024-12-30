@@ -1,7 +1,7 @@
 # **SQLyzer 🕵️‍♂️**
 
 **SQLyzer** is a powerful and user-friendly **SQL Injection Vulnerability Scanner** designed to help developers, security researchers, and bug hunters identify SQL injection vulnerabilities in web applications. With advanced crawling capabilities, multi-threading support, and a modern terminal UI, SQLyzer makes vulnerability scanning efficient and intuitive.
-
+If you found any error in this tool, **Reach me AS SOON AS POSSIBLE ⚠!**
 ---
 
 ## **Features ✨**
