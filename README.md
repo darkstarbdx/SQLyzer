@@ -23,8 +23,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/darkstarbdx/sqlyzer
-   cd sqlyzer
+   git clone https://github.com/darkstarbdx/SQLyzer
+   cd SQLyzer
    ```
 
 2. Install dependencies:
@@ -70,18 +70,6 @@ python3 sqlyzer.py -u https://testphp.vulnweb.com -p payloads.txt -x http://127.
 
 ### **Output File**
 ![output](https://github.com/user-attachments/assets/158735bb-7c55-4053-8512-bb58df7b4db2)
-
----
-
-## **Contributing 🤝**
-
-Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeatureName`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/YourFeatureName`.
-5. Open a pull request.
 
 ---
 
