@@ -75,9 +75,10 @@ python3 sqlyzer.py -u https://testphp.vulnweb.com -p payloads.txt -x http://127.
 
 ## **Support 🆘**
 
-If you encounter any issues or have questions, **reach out to me ASAP**! You can:
-- Open an issue on GitHub.
-- Contact me via GitHub.
+If you encounter any issues or have questions, **reach out to me ASAP**!
+✨ Want to get in touch?
+🌟 Join our vibrant Telegram community!
+👉 Click here to connect: [Telegram Group](https://t.me/+mzZ9IrWgXe9jNWNl)
 
 ---
 
